@@ -67,6 +67,7 @@
     - ![RabbitMQ-Bindings-Queue](images/RabbitMQ-Bindings-Queue-a-1.gif)
     
     开启websocket 
+    
     rabbitmq-plugins enable rabbitmq_web_stomp  
     rabbitmq-plugins enable rabbitmq_web_stomp_examples  
 
